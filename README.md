@@ -4,30 +4,36 @@
 
 > A curated list of awesome things related to academic writing.
 
-Writing is an important part of science. Even if many scientists are in the lab all day, they have to write down their results at the end. This collection contains the best tools for academic writing for people who love distraction free writing (and do not want to drown in LaTeX source code).
+Writing is an important part of science. Even if many scientists are in the lab all day, they have to write down their results at the end. This collection contains the best tools for academic writing for people who love distraction free writing with (Pandoc) Markdown (and do not want to drown in LaTeX source code).
+
+Most of the software, templates, and guides depend on [Pandoc](https://pandoc.org/) and [LaTeX](https://www.latex-project.org/). ([Pandoc](https://pandoc.org/) is the swiss army knife for document conversion. [LaTeX](https://www.latex-project.org/) is the one and only typesetting system.)
 
 ## Contents
 
-- [Word Processing](#word-processing)
+- [How to](#how-to)
+- [Word Processors](#word-processors)
 - [Bibliography](#bibliography)
 - [Tips and Tricks](#tips-and-tricks)
 - [Templates and Guides](#templates-and-guides)
   - [Markdown](#markdown)
   - [R Markdown](#r-markdown)
 
-## Word Processing
+## How to
 
-All these word processors depend on [Pandoc](https://pandoc.org/) and [LaTeX](https://www.latex-project.org/) to generate nicely typed PDF files.
+- [A Plain Text Workflow for Academic Writing with Atom](http://u.arizona.edu/~selisker/post/workflow/)
+- [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+- [How to use Pandoc to produce a research paper](https://opensource.com/article/18/9/pandoc-research-paper)
 
-- [Typora](https://www.typora.io/)
+## Word Processors
+
+- [Marktext](https://marktext.app/)
 - [Zettlr](https://www.zettlr.com/)
+- [Joplin](https://joplinapp.org/)
 - [Notable](https://github.com/notable/notable)
 - [RStudio](https://github.com/rstudio/rstudio)
 - [Atom](https://atom.io)
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced)
   - [Autocomplete BibTex for Atom](https://github.com/apcshields/autocomplete-bibtex)
-- [Pandoc](https://pandoc.org/) - The swiss army knife for file conversions and CSL.
-- [LaTeX](https://www.latex-project.org/) - Still the one and only typesetting system.
 
 ## Bibliography
 
@@ -52,14 +58,17 @@ Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](http
 
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A clean academic pandoc LaTeX template.
-- [Pandoc Starter](https://github.com/jez/pandoc-starter)
-- [Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)
+- [Academic Pandoc Template](https://github.com/maehr/academic-pandoc-template) - Simple academic paper template.
+- [Pandoc Starter](https://github.com/jez/pandoc-starter) - Article, Beamer presentation, book, homework and handout.
+- [Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Full blown academic template with enhanced metadata.
+- [User contributed templates](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
 
 ### R Markdown
 
 - [R Markdown Book](https://bookdown.org/yihui/rmarkdown/) - All you need to know to use R Markdown.
 - [Bookdown](https://github.com/rstudio/bookdown) - Templates books in PDF, LaTeX, HTML, EPUB and Word.
-- [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/)
+- [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
+- [University of Zurich Master Thesis Template](https://github.com/maehr/uzh-ma-thesis)
 
 ## Contribute
 
