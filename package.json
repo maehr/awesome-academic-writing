@@ -1,0 +1,20 @@
+{
+  "name": "awesome-academic-writing",
+  "description": "A curated list of awesome things related to digital history.",
+  "dependencies": {},
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maehr/awesome-academic-writing.git"
+  },
+  "author": "maehr",
+  "bugs": {
+    "url": "https://github.com/maehr/awesome-academic-writing/issues"
+  },
+  "homepage": "https://github.com/maehr/awesome-academic-writing#readme"
+}
