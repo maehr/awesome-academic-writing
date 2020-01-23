@@ -10,7 +10,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 
 ## Contents
 
-- [How to](#how-to)
+- [How To](#how-to)
 - [Word Processors](#word-processors)
 - [Bibliography](#bibliography)
 - [Tips and Tricks](#tips-and-tricks)
@@ -18,7 +18,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
   - [Markdown](#markdown)
   - [R Markdown](#r-markdown)
 
-## How to
+## How To
 
 - [A Plain Text Workflow for Academic Writing with Atom](http://u.arizona.edu/~selisker/post/workflow/)
 - [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
