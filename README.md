@@ -13,6 +13,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 - [How to](#how-to)
 - [Word Processors](#word-processors)
 - [Bibliography](#bibliography)
+- [Spellchecking](#spellchecking)
 - [Tips and Tricks](#tips-and-tricks)
 - [Templates and Guides](#templates-and-guides)
   - [Markdown](#markdown)
@@ -39,10 +40,16 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
-- [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
+  - [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
   - [ZotFile for Zotero](http://zotfile.com/) - The missing PDF file management for Zotero.
-  - [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
+- [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
 - [CSL Language and Editor](https://github.com/citation-style-language/csl-editor) - If you don not like my style, create your own.
+
+## Spellchecking
+
+- [LanguageTool](https://languagetool.org/) - Checks your grammar, style and spelling in more than 20 languages.
+- [GNU Aspell](http://aspell.net/)
+- [Hunspell](http://hunspell.github.io/)
 
 ## Tips and Tricks
 
