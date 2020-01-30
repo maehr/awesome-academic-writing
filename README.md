@@ -18,6 +18,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 - [Templates and Guides](#templates-and-guides)
   - [Markdown](#markdown)
   - [R Markdown](#r-markdown)
+- [Illustrations](#illustrations)
 
 ## How To
 
@@ -56,6 +57,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 - [Ten simple rules for scientists: Improving your writing productivity](https://dx.plos.org/10.1371/journal.pcbi.1006379)
 - [Writing for an academic journal: 10 tips](https://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips)
 - [How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)
+- [Harvard Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 
 ## Templates and Guides
 
@@ -76,6 +78,14 @@ Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](http
 - [Bookdown](https://github.com/rstudio/bookdown) - Templates books in PDF, LaTeX, HTML, EPUB and Word.
 - [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
 - [University of Zurich Master Thesis Template](https://github.com/maehr/uzh-ma-thesis)
+
+## Illustrations
+
+Drawing illustrations themselves has driven many a scientist mad. Fortunately, there are formal languages with which one can create beautiful graphics.
+
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
+- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
+- [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
 
 ## Contribute
 
