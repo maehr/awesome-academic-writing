@@ -10,15 +10,17 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 
 ## Contents
 
-- [How to](#how-to)
+- [How To](#how-to)
 - [Word Processors](#word-processors)
 - [Bibliography](#bibliography)
+- [Spellchecking](#spellchecking)
 - [Tips and Tricks](#tips-and-tricks)
 - [Templates and Guides](#templates-and-guides)
   - [Markdown](#markdown)
   - [R Markdown](#r-markdown)
+- [Illustrations](#illustrations)
 
-## How to
+## How To
 
 - [A Plain Text Workflow for Academic Writing with Atom](http://u.arizona.edu/~selisker/post/workflow/)
 - [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
@@ -39,16 +41,23 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
-- [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
+  - [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
   - [ZotFile for Zotero](http://zotfile.com/) - The missing PDF file management for Zotero.
-  - [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
+- [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
 - [CSL Language and Editor](https://github.com/citation-style-language/csl-editor) - If you don not like my style, create your own.
+
+## Spellchecking
+
+- [LanguageTool](https://languagetool.org/) - Checks your grammar, style and spelling in more than 20 languages.
+- [GNU Aspell](http://aspell.net/)
+- [Hunspell](http://hunspell.github.io/)
 
 ## Tips and Tricks
 
 - [Ten simple rules for scientists: Improving your writing productivity](https://dx.plos.org/10.1371/journal.pcbi.1006379)
 - [Writing for an academic journal: 10 tips](https://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips)
 - [How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)
+- [Harvard Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 
 ## Templates and Guides
 
@@ -69,6 +78,14 @@ Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](http
 - [Bookdown](https://github.com/rstudio/bookdown) - Templates books in PDF, LaTeX, HTML, EPUB and Word.
 - [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
 - [University of Zurich Master Thesis Template](https://github.com/maehr/uzh-ma-thesis)
+
+## Illustrations
+
+Drawing illustrations themselves has driven many a scientist mad. Fortunately, there are formal languages with which one can create beautiful graphics.
+
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
+- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
+- [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
 
 ## Contribute
 
