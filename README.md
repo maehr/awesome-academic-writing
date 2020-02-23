@@ -61,8 +61,6 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 
 ## Templates and Guides
 
-Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](https://www.latex-project.org/). Make sure to install those dependencies.
-
 ### Markdown
 
 - [Markdown tutorial](https://www.markdowntutorial.com/)
@@ -70,6 +68,7 @@ Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](http
 - [Academic Pandoc Template](https://github.com/maehr/academic-pandoc-template) - Simple academic paper template.
 - [Pandoc Starter](https://github.com/jez/pandoc-starter) - Article, Beamer presentation, book, homework and handout.
 - [Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Full blown academic template with enhanced metadata.
+- [Arabica](https://github.com/periodicpoint/arabica) - Template for academic books.
 - [User contributed templates](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
 
 ### R Markdown
