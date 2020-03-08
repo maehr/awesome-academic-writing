@@ -44,7 +44,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
   - [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
   - [ZotFile for Zotero](http://zotfile.com/) - The missing PDF file management for Zotero.
 - [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
-- [CSL Language and Editor](https://github.com/citation-style-language/csl-editor) - If you don not like my style, create your own.
+- [Citation Style Language and Editor](https://github.com/citation-style-language/csl-editor) - Create your own style.
 
 ## Spellchecking
 
@@ -61,8 +61,6 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
 
 ## Templates and Guides
 
-Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](https://www.latex-project.org/). Make sure to install those dependencies.
-
 ### Markdown
 
 - [Markdown tutorial](https://www.markdowntutorial.com/)
@@ -70,6 +68,7 @@ Most of these templates depend on [Pandoc](https://pandoc.org/) and [LaTeX](http
 - [Academic Pandoc Template](https://github.com/maehr/academic-pandoc-template) - Simple academic paper template.
 - [Pandoc Starter](https://github.com/jez/pandoc-starter) - Article, Beamer presentation, book, homework and handout.
 - [Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Full blown academic template with enhanced metadata.
+- [Arabica](https://github.com/periodicpoint/arabica) - Template for academic books.
 - [User contributed templates](https://github.com/jgm/pandoc/wiki/User-contributed-templates)
 
 ### R Markdown
