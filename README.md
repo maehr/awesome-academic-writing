@@ -44,7 +44,7 @@ Most of the software, templates, and guides depend on [Pandoc](https://pandoc.or
   - [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
   - [ZotFile for Zotero](http://zotfile.com/) - The missing PDF file management for Zotero.
 - [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
-- [CSL Language and Editor](https://github.com/citation-style-language/csl-editor) - If you don not like my style, create your own.
+- [Citation Style Language and Editor](https://github.com/citation-style-language/csl-editor) - Create your own style.
 
 ## Spellchecking
 
