@@ -85,6 +85,7 @@ Drawing illustrations themselves has driven many a scientist mad. Fortunately, t
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
 - [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
+- [gnuplot](http://www.gnuplot.info/)
 
 ## Contribute
 
