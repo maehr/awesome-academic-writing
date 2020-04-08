@@ -87,6 +87,7 @@ Drawing illustrations themselves has driven many a scientist mad. Fortunately, t
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
 - [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
+- [gnuplot](http://www.gnuplot.info/)
 
 ## Contribute
 
@@ -94,7 +95,7 @@ Contributions welcome! Read the [CONTRIBUTING.md](https://github.com/maehr/aweso
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Moritz Mähr has waived all copyright and
 related or neighboring rights to this work.
