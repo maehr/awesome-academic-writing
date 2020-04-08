@@ -1,3 +1,5 @@
+**THIS AWESOME LIST WAS MERGED INTO [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) AND HAS BEEN ARCHIVED**
+
 # Awesome Academic Writing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="android-chrome-512x512.png" align="right" width="100">](https://maehr.github.io/awesome-academic-writing/)
